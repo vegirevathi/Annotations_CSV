@@ -30,3 +30,7 @@ hs_err_pid*
 gradlew.*
 gradlew
 
+build/generated/
+build/tmp/
+src/main/resources/
+src/test/
